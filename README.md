@@ -1,4 +1,4 @@
-##Student Information Management System (SIMS)
+## Student Information Management System (SIMS)
 ***
 
 ### Introduction
@@ -7,12 +7,24 @@ The main objective of this mini project is to design a dynamic and responsive we
 information management system. This web application is full-fledged logic using new
 technologies in the market with maximum functionalities, efficiency, and optimal speed on a web.
 ### Screenshot
+***
+* Login UI
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/Login.PNG" width="850" alt="Login UI" />
 
-<img src="C:\Users\ewca\Pictures\ScreenShot\Login.png" width="850" alt="Login UI" />
-<img src="C:\Users\ewca\Pictures\ScreenShot\RegisterationForm.png" width="850" alt="CreateAccount UI" />
-<img src="C:\Users\ewca\Pictures\ScreenShot\HomePage.png" width="850" alt="Home UI" />
-<img src="C:\Users\ewca\Pictures\ScreenShot\StudentRegisterationForm.png" width="850" alt="Student Registration UI" />
-<img src="C:\Users\ewca\Pictures\ScreenShot\SearchPage.png" width="850" alt="Search UI"/>
+* Create an Account UI
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/Registeration%20Form.PNG" width="850" alt="CreateAccount UI" />
+
+* Home UI
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/Home%20Page.PNG" width="850" alt="Home UI" />
+
+* Student Registeration UI
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/Student%20Registeration%20Form.PNG" width="850" alt="Student Registration UI" />
+
+* List Of Student UI
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/List%20of%20student.PNG" width="850" alt="List UI"/>
+
+* Search UI
+<img src="https://raw.githubusercontent.com/sebagadisk/JSPproject/main/Screenshots/Search%20Page.PNG" width="850" alt="Search UI"/>
 
 ## Technologies
 ***
@@ -43,7 +55,7 @@ A list of technologies used within the project:
 * Create an Account
 * Register Student.
 * Display List of Student.
-* Search Student
+* Search Students
 * Logout
 
 ##About
